@@ -6,7 +6,7 @@ package Konstruktor;
 
 /**
  *
- * @author Ananta Widayani
+ * @author Herdiansyah
  */
 public class Demo {
 
